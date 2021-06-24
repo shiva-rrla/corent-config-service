@@ -1,2 +1,7 @@
 corent:
   productname: productservice
+server:
+  port: 9001
+spring:
+  application:
+    name: PRODUCT_SERVICE
